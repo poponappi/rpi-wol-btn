@@ -1,10 +1,5 @@
 # Raspberry Pi WOL Button
-Button connected to Raspberry Pi's gpio port send Wake-On-Lan signal to computer to start it.
-
-## About project
-
-I made this so I can hide my computer out of sight. Thats why I can't reach power button of computer.
-
+Button connected to Raspberry Pi's gpio port and when pushed Raspberry Pi send Wake-On-Lan signal to computer to start it.
 
 ## Requirements
 
