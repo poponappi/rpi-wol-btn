@@ -3,6 +3,7 @@ from time import sleep
 from wakeonlan import send_magic_packet
 
 
+# defines where button is connected in this case GPIO2
 button = Button(2)
 
 while True:
